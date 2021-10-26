@@ -26,7 +26,7 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<a href="https://www.linkedin.com/in/jonatan-segovia-dev/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E16AQGHTDHz7dUivw/profile-displaybackgroundimage-shrink_200_800/0/1634720532083?e=1640822400&v=beta&t=dzcIqKsF7YZLciRjPxIj999OBs2zHGghWXSJbLVuVqo"></a>
+<a href="https://www.linkedin.com/in/jonatan-segovia-dev/"><img alt="LinkedIn" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-25.jpg"></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/jonatansegovia/jonatansegovia/blob/main/README.md")
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
