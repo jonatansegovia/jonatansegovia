@@ -4,25 +4,23 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "tech", "app dev", "Football"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["React Native"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Redux"],
+            css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express"],
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["psql", "sql"],
+        others: ["Trello", "Scrum", "Git", "GitHub"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Single page applications"],
+    currentProject: "I am developing a Home Services App in Henry Academy",
+    funFact: "Coding will soon be as important as reading"
 };
 ```
 
