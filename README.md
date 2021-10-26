@@ -3,7 +3,7 @@
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Full Stack Web Developer
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> JavaScript | React | Redux | Node.JS | Express | PostgresSQL | Sequelize</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> JS | React | Redux | Node.JS | Express | PostgresSQL | Sequelize</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>design enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with Programming, Music & Football</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> Team Work - Leadership</em></p>
