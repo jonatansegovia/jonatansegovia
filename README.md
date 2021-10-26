@@ -7,7 +7,7 @@ const jsegovia = {
     code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "Football"],
     technologies: {
-        mobileApp: ["React Native"],
+        mobileApp: ["React Native (soon)"],
         frontEnd: {
             js: ["React", "Redux"],
             css: ["bootstrap"]
