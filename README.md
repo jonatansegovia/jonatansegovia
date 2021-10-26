@@ -18,7 +18,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank">
   <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-  
+  <br/>
 <p align="left"></a>
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> Team Work - Leadership</em></p>
 <p align="left"></a>
