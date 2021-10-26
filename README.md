@@ -28,4 +28,4 @@ const anmol = {
 
 <a href="https://www.linkedin.com/in/jonatan-segovia-dev/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E16AQGHTDHz7dUivw/profile-displaybackgroundimage-shrink_200_800/0/1634720532083?e=1640822400&v=beta&t=dzcIqKsF7YZLciRjPxIj999OBs2zHGghWXSJbLVuVqo"></a>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
