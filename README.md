@@ -4,14 +4,14 @@
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Full Stack Web Developer
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
- <em> ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)</em>
- 
+ <em> </em>
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em> Messi fan</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em>     in love with Programming, Music & Football</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with Programming, Music & Football</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> Team Work - Leadership</em></p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://github.com/jonatansegovia)
