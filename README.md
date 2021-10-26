@@ -16,6 +16,7 @@ const anmol = {
             js: ["node", "express"],
         },
         databases: ["psql", "sql"],
+        languages: ["English Advanced", "Spanish Native"],
         others: ["Trello", "Scrum", "Git", "GitHub"]
     },
     architecture: ["Single page applications"],
