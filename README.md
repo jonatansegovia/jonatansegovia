@@ -1,3 +1,8 @@
+<style type="text/css">
+        a:link, a:visited, a:active {
+            text-decoration:none;
+        }
+    </style>
 ## console.log("Hi! I'm J0n") <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
