@@ -27,8 +27,8 @@ const jsegovia = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<a href="https://www.linkedin.com/in/jonatan-segovia-dev/"><img alt="LinkedIn" src="https://www.pngitem.com/pimgs/m/4-44402_transparent-clipart-auto-von-oben-linkedin-icon-hd.png" width="20" align="center">             My Linkedin</a>
-<a href="https://mail.google.com/"><img alt="gmail" src="https://cdn2.downdetector.com/static/uploads/logo/image21.png" width="20" align="center">             Contact Me</a>
+<a href="https://www.linkedin.com/in/jonatan-segovia-dev/" text-decoration="none"><img alt="LinkedIn" src="https://www.pngitem.com/pimgs/m/4-44402_transparent-clipart-auto-von-oben-linkedin-icon-hd.png" width="20" align="center">             My Linkedin</a>
+<a href="https://mail.google.com/" text-decoration="none"><img alt="gmail" src="https://cdn2.downdetector.com/static/uploads/logo/image21.png" width="20" align="center">             Contact Me</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/jonatansegovia/jonatansegovia/blob/main/README.md")
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
