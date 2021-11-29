@@ -27,7 +27,7 @@ const jsegovia = {
 
 ### 💼 Projects
 
-<table align="center">
+<div display="flex" flex-direction="column">
  <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
   <img src="./imgs/pf-web-service.gif" alt="pf-web-service"/>
   </a>
@@ -42,7 +42,7 @@ const jsegovia = {
   
 <br>
 
-    </table>
+    </div>
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
