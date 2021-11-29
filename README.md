@@ -32,7 +32,7 @@ const jsegovia = {
 
 <div display="flex">
    <a href="https://countries-app-roan.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
-      <img src="./imgs/countriesapp-gif.gif" alt="pf-web-service"/>
+      <img src="./imgs/countries.gif" alt="pf-web-service"/>
     </a>
 </div>
 
