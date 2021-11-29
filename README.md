@@ -26,6 +26,7 @@ const jsegovia = {
 ```
 
 ### 💼 Projects
+<div display="flex">
 - Countries App
    <a href="https://countries-app-roan.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
       <img src="./imgs/countries.gif" alt="pi-countries-app"/>
@@ -35,6 +36,8 @@ const jsegovia = {
    <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
       <img src="./imgs/webservice.gif" alt="pf-web-service"/>
     </a>
+    
+</div>
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
