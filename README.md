@@ -32,6 +32,11 @@ const jsegovia = {
   <img src="./imgs/pf-web-service.gif" alt="pf-web-service"/>
   </a>
   
+- Countries App
+  <a href="https://countries-app-roan.vercel.app/" rel="noopener noreferrer" target="_blank">
+  <img src="./imgs/pf-web-service.gif" alt="pf-web-service"/>
+  </a>
+  
 <br>
 
 ---
