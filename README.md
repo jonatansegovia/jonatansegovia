@@ -27,8 +27,7 @@ const jsegovia = {
 
 ### 💼 Projects
 
-- Web Service
-  <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank">
+ <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%">
   <img src="./imgs/pf-web-service.gif" alt="pf-web-service"/>
   </a>
   
