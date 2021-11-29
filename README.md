@@ -27,16 +27,18 @@ const jsegovia = {
 
 ### 💼 Projects
 - Countries App
-- asdfasdf
-- sadfsadf
-
 <div display="flex">
    <a href="https://countries-app-roan.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
-      <img src="./imgs/countries.gif" alt="pf-web-service"/>
+      <img src="./imgs/countries.gif" alt="pi-countries-app"/>
     </a>
 </div>
 
-
+- Web Service
+<div display="flex">
+   <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
+      <img src="./imgs/webservice.gif" alt="pf-web-service"/>
+    </a>
+</div>
 <br>
 ---
 
