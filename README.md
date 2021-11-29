@@ -26,7 +26,7 @@ const jsegovia = {
 ```
 
 ### 💼 Projects
-<div display="flex">
+<div display="flex" flex-direction="column">
    <a href="https://countries-app-roan.vercel.app/" rel="noopener noreferrer" target="_blank" width="100%" align="center">
       <img src="./imgs/countries.gif" alt="pi-countries-app"/>
     </a>
