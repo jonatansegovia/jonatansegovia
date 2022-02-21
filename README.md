@@ -10,14 +10,14 @@ const jsegovia = {
         mobileApp: ["React Native (soon)"],
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["bootstrap", "Material UI"]
+            css: ["Material UI"]
         },
         backEnd: {
             js: ["node", "express"],
         },
         databases: ["psql", "sql"],
         languages: ["English Advanced", "Spanish Native"],
-        others: ["Trello", "Scrum", "Git", "GitHub", "Vercel", "Heroku"]
+        others: ["Trello", "Scrum", "Git", "GitHub", "Vercel", "Heroku", "Postman", "Sourcetree"]
     },
     architecture: ["Single page applications"],
     currentProject: "Developing more skills in React",
