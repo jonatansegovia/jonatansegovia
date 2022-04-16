@@ -4,7 +4,7 @@
 ```javascript
 const jsegovia = {
     pronouns: "He" | "Him",
-    code: ["Javascript"],
+    code: ["Javascript", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev", "Football"],
     technologies: {
         mobileApp: ["React Native (soon)"],
