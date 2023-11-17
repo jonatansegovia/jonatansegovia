@@ -10,17 +10,19 @@ const jsegovia = {
         mobileApp: ["React Native (soon)"],
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["Material UI"]
+            css: ["Material UI", "Tailwind", "Styled Components"],
+            testing: ["Testing library", "Jest"],
+            A11Y: ["some knowledge and improving :)]
         },
         backEnd: {
             js: ["node", "express"],
         },
         databases: ["psql", "sql"],
         languages: ["English Advanced", "Spanish Native"],
-        others: ["Trello", "Scrum", "Git", "GitHub", "Vercel", "Heroku", "Postman", "Sourcetree"]
+        others: ["Trello", "Scrum", "Git", "GitHub", "Vercel", "Heroku", "Postman", "Sourcetree", "Jira"]
     },
     architecture: ["Single page applications"],
-    currentProject: "Developing more skills in React",
+    currentProject: "Developing more skills in Javascript",
     funFact: "Coding will soon be as important as reading"
 };
 ```
